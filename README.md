@@ -1,7 +1,7 @@
 # DegFairGNN
 
 # Generalized Degree Fairness-Centric Graph Neural Networks
-We provide the implementaion of DegFairGNN model.
+We provide the implementaion of DegFairGNN model for review.
 
 The repository is organised as follows:
 - data/: contains 3 benchmark datasets: squirrel, chameleon, emnlp
